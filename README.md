@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @TrungTienns
+- 👀 I’m interested in Mobile Developer
+- 🌱 I’m currently learning Ho Chi Minh City University Of Foreign Languages And Information Technology (HUFLIT)
+- 💞️ I’m looking to collaborate on Mobile Project
+- 📫 How to reach me an email: trungtienvu202@gmail.com
