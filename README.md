@@ -21,20 +21,21 @@ I focus on **clean UI/UX**, cross-platform performance, and seamless user experi
 
 ### **Mobile Development**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=swift,flutter,dart,kotlin,react" height="40" style="margin: 5px;"/>
+  <img src="https://skillicons.dev/icons?i=swift,flutter,dart,kotlin,react,androidstudio,vscode" height="40" style="margin: 5px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.3)'" onmouseout="this.style.transform='scale(1)'" />
 </p>
 
 ### **Backend & Tools**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,firebase,mysql,github,npm,postman,docker,c#,vscode,androidstudio,git,prisma,java" height="40" style="margin: 5px;"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,firebase,mysql,prisma,c#,java,postman" height="40" style="margin: 5px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.3)'" onmouseout="this.style.transform='scale(1)'" />
+  <img src="https://skillicons.dev/icons?i=github,npm,docker,git,linkedin" height="40" style="margin: 5px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.3)'" onmouseout="this.style.transform='scale(1)'" />
 </p>
 
 ---
 
 ## 📫 Contact Me
 <p align="center">
-  <a href="https://www.facebook.com/yourlink" target="_blank"><img src="https://skillicons.dev/icons?i=facebook" height="40" style="margin: 5px;"/></a>
-  <a href="mailto:your.mail@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40" style="margin: 5px;"/></a>
-  <a href="https://github.com/yourgithub" target="_blank"><img src="https://skillicons.dev/icons?i=github" height="40" style="margin: 5px;"/></a>
-  <a href="https://www.linkedin.com/in/yourlinkedin" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="40" style="margin: 5px;"/></a>
+  <a href="https://www.facebook.com/trung.tien.1801" target="_blank"><img src="https://skillicons.dev/icons?i=facebook" height="40" style="margin: 5px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" /></a>
+  <a href="mailto:your.mail@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40" style="margin: 5px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" /></a>
+  <a href="https://github.com/yourgithub" target="_blank"><img src="https://skillicons.dev/icons?i=github" height="40" style="margin: 5px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" /></a>
+  <a href="https://www.linkedin.com/in/yourlinkedin" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="40" style="margin: 5px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" /></a>
 </p>
