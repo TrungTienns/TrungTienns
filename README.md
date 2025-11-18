@@ -35,7 +35,7 @@ I focus on **clean UI/UX**, cross-platform performance, and seamless user experi
 ## 📫 Contact Me
 <p align="center">
   <a href="https://www.facebook.com/trung.tien.1801" target="_blank"><img src="https://skillicons.dev/icons?i=facebook" height="40" style="margin: 5px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" /></a>
-  <a href="mailto:your.mail@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40" style="margin: 5px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" /></a>
-  <a href="https://github.com/yourgithub" target="_blank"><img src="https://skillicons.dev/icons?i=github" height="40" style="margin: 5px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" /></a>
-  <a href="https://www.linkedin.com/in/yourlinkedin" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="40" style="margin: 5px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" /></a>
+  <a href="mailto:trungtienvu202@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40" style="margin: 5px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" /></a>
+  <a href="https://github.com/TrungTienns" target="_blank"><img src="https://skillicons.dev/icons?i=github" height="40" style="margin: 5px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" /></a>
+  <a href="https://www.linkedin.com/in/trungtienvu/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="40" style="margin: 5px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" /></a>
 </p>
