@@ -8,9 +8,11 @@
 ---
 
 ## 🖥️ About Me
-- 🎨 Passionate about minimal & clean mobile UI/UX  
-- 📱 Building cross-platform mobile apps with **Swift** & **Flutter**
-- 🚀 Always exploring new technologies
+I’m a Mobile Developer with a strong passion for building fast, elegant, and intuitive applications.
+My focus is on delivering minimal, clean UI/UX and creating seamless user experiences across platforms.
+	•	🎨 Design & refine modern mobile interfaces with a clean, minimal aesthetic
+	•	📱 Develop cross-platform mobile apps using Swift & Flutter
+	•	🚀 Continuously explore new tools, frameworks, and technologies to improve performance and productivity
 
 ---
 
