@@ -1,41 +1,98 @@
 <p align="center">
-  <img src="assets/animations/banner.gif" alt="Trung Tiến - Mobile Developer Banner" width="600px">
+  <img src="assets/animations/banner.gif" alt="Trung Tiến - Mobile Developer Banner" width="100%">
 </p>
 
 <h1 align="center">👋 Hi, I'm Trung Tiến</h1>
-<h3 align="center">Mobile Developer • Crafting Modern Mobile Apps • Build. Design. Deploy.</h3>
+<h3 align="center">Mobile Developer • Crafting modern mobile apps • Build. Design. Deploy.</h3>
+
+<p align="center">
+  <a href="https://github.com/trungtien">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/trungtien">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:your.mail@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+</p>
 
 ---
 
 ## 🖥️ About Me
-I am a **Mobile Developer** passionate about building fast, elegant, and intuitive applications.  
-I focus on **clean UI/UX**, cross-platform performance, and seamless user experiences.  
 
-- 🎨 Designing and refining modern mobile interfaces with a minimal aesthetic  
-- 📱 Developing cross-platform apps using **Swift** & **Flutter**  
-- 🚀 Exploring new tools, frameworks, and technologies to optimize performance  
+```swift
+let developer = Developer(
+    name: "Trung Tiến",
+    role: "Mobile Developer",
+    location: "Vietnam",
+    passions: [
+        "Minimal & clean mobile UI/UX",
+        "Cross-platform mobile development",
+        "Exploring cutting-edge technologies"
+    ]
+)
+```
+
+- 🎨 **UI/UX Enthusiast** - Passionate about creating minimal, clean, and intuitive mobile interfaces
+- 📱 **Mobile Developer** - Building cross-platform mobile applications with **Swift**, **Flutter**, and **Kotlin**
+- 🚀 **Tech Explorer** - Always learning and experimenting with new technologies and frameworks
+- 💡 **Problem Solver** - Turning complex ideas into elegant, user-friendly mobile solutions
+- 🌱 **Continuous Learner** - Committed to staying updated with the latest mobile development trends
 
 ---
 
 ## ⚙️ Tech Stack
 
 ### **Mobile Development**
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=swift,flutter,dart,kotlin,react,androidstudio,vscode" height="40" style="margin: 5px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.3)'" onmouseout="this.style.transform='scale(1)'" />
+<p>
+  <img src="https://skillicons.dev/icons?i=swift,flutter,dart,kotlin,androidstudio,xcode" alt="Mobile Technologies" />
 </p>
+- **iOS Development**: Swift, SwiftUI, UIKit, Core Data
+- **Android Development**: Kotlin, Jetpack Compose, Material Design
+- **Cross-Platform**: Flutter, Dart
 
-### **Backend & Tools**
+### **Backend & Database**
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,firebase,mysql,postgresql,mongodb" alt="Backend Technologies" />
+</p>
+- **Backend**: Node.js, NestJS, RESTful APIs, GraphQL
+- **Database**: MySQL, PostgreSQL, MongoDB, Firebase Realtime Database
+- **Cloud Services**: Firebase, AWS, Google Cloud Platform
+
+### **Tools & Others**
+<p>
+  <img src="https://skillicons.dev/icons?i=git,docker,figma,postman,vscode" alt="Tools" />
+</p>
+- **Version Control**: Git, GitHub, GitLab
+- **Design**: Figma, Adobe XD
+- **DevOps**: Docker, CI/CD
+- **Testing**: Unit Testing, Integration Testing
+
+---
+
+## 📫 Connect With Me
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,firebase,mysql,prisma,c#,java,postman" height="40" style="margin: 5px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.3)'" onmouseout="this.style.transform='scale(1)'" />
-  <img src="https://skillicons.dev/icons?i=github,npm,docker,git,linkedin" height="40" style="margin: 5px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.3)'" onmouseout="this.style.transform='scale(1)'" />
+  <a href="https://www.facebook.com/yourlink" target="_blank">
+    <img src="https://skillicons.dev/icons?i=facebook" height="40" alt="Facebook"/>
+  </a>
+  <a href="https://www.linkedin.com/in/trungtien" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn"/>
+  </a>
+  <a href="https://twitter.com/trungtien" target="_blank">
+    <img src="https://skillicons.dev/icons?i=twitter" height="40" alt="Twitter"/>
+  </a>
+  <a href="mailto:your.mail@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Gmail"/>
+  </a>
+  <a href="https://github.com/trungtien" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub"/>
+  </a>
 </p>
 
 ---
 
-## 📫 Contact Me
 <p align="center">
-  <a href="https://www.facebook.com/trung.tien.1801" target="_blank"><img src="https://skillicons.dev/icons?i=facebook" height="40" style="margin: 5px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" /></a>
-  <a href="mailto:trungtienvu202@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40" style="margin: 5px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" /></a>
-  <a href="https://github.com/TrungTienns" target="_blank"><img src="https://skillicons.dev/icons?i=github" height="40" style="margin: 5px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" /></a>
-  <a href="https://www.linkedin.com/in/trungtienvu/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="40" style="margin: 5px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" /></a>
+  <i>Thanks for visiting my profile! ⭐️</i>
 </p>
