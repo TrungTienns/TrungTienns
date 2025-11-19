@@ -62,7 +62,7 @@ let developer = Developer(
 
 ### **Tools & Others**
 <p>
-  <img src="https://skillicons.dev/icons?i=git,docker,figma,postman,vscode" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=git,docker,figma,postman,vscode,cursor" alt="Tools" />
 </p>
 - **Version Control**: Git, GitHub, GitLab
 - **Design**: Figma, Adobe XD
