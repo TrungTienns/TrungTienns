@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/animations/banner.gif" alt="Trung Tiến - Mobile Developer Banner" width="100%">
+  <img src="assets/animations/banner1.gif" alt="Trung Tiến - Mobile Developer Banner" width="100%">
 </p>
 
 <h1 align="center">👋 Hi, I'm Trung Tiến</h1>
