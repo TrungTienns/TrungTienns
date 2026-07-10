@@ -6,17 +6,18 @@
 <h3 align="center">Mobile Developer • Crafting modern mobile apps • Build. Design. Deploy.</h3>
 
 <p align="center">
-  <a href="https://github.com/trungtien">
-    <img src="[https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white](https://github.com/TrungTienns)" alt="GitHub"/>
+  <a href="https://github.com/TrungTienns" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="https://www.linkedin.com/in/trungtien">
-    <img src="[https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://www.linkedin.com/in/trungtienvu/)" alt="LinkedIn"/>
+
+  <a href="https://www.linkedin.com/in/trungtienvu/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:your.mail@gmail.com">
-    <img src="trungtienvu202@gmail.com" alt="Gmail"/>
+
+  <a href="mailto:trungtienvu202@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </p>
-
 ---
 
 ## 🖥️ About Me
